@@ -76,8 +76,12 @@ The environment is built using **OpenAI Gymnasium (Atari)**, and the agent impro
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    
-Install Dependencies 
-pip install gymnasium[atari] torch numpy matplotlib
+2. Install Dependencies 
+   ```bash
+   pip install gymnasium[atari] torch numpy matplotlib
 
-Run the notebook
-jupyter notebook Deep_Convolutional_Q_Learning_for_Pac_Man.ipynb
+3. Run the notebook
+   ```bash
+   jupyter notebook Deep_Convolutional_Q_Learning_for_Pac_Man.ipynb
+
+
