@@ -83,5 +83,3 @@ The environment is built using **OpenAI Gymnasium (Atari)**, and the agent impro
 3. Run the notebook
    ```bash
    jupyter notebook Deep_Convolutional_Q_Learning_for_Pac_Man.ipynb
-
-
